@@ -2,4 +2,4 @@
 Best resources to learn Javascript from beginner to expert!
 
 ## Books
-* [Free javascript books](https://jsbooks.revolunet.com/)
+* [Free javascript books](https://jsbooks.revolunet.com/){:target="_blank"}
